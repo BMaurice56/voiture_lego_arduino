@@ -1,17 +1,19 @@
 # Voiture radio-télécommandé légo
 
-Projet de voiture radio-télécommandé légo élaboré et produit entre frangins.
+Projet de voiture radio-télécommandé légo élaboré et produit avec mon frère.
 
 
 <p align="center">
     <img width="500" src="ressources/voiture/voiture.jpg" alt="voiture">
 </p>
 
-Voiture réalisée avec des pièces légo, des moteurs récupérés, une machine 3D pour imprimer des pièces manquantes ou pour renforcer des zones et des composants électroniques pour la piloter.
+Voiture réalisée avec des pièces légo, des moteurs récupérés, une imprimante 3D pour fabriquer des pièces manquantes ou pour renforcer des zones. Et des composants électroniques pour la piloter.
 
 ## Légo
 
 ### Transmission
+
+Un moteur polarisable est controlé par un pont en H et est rattaché à un différentiel afin de transférer l'énergie dans les roues arrière. 
 
 <p align="center">
     <img width="400" src="ressources/voiture/dessus.jpg" alt="voiture">
@@ -19,27 +21,30 @@ Voiture réalisée avec des pièces légo, des moteurs récupérés, une machine
 
 ### Direction
 
+Même principe que la transmission, un moteur polarisé relié au même pont en H. Une glissière relie les deux roues afin de pouvoir les tourner dans le même sens. Un bouton à gauche permet d'arréter le moteur quand il tourne à droite, de même avec le bouton à drotie quand il veut tourner à gauche. Un fils est incrusté au milieu de la glissière et un autre juste devant afin d'indiquer le centre de la direction.
+
 <p align="center">
     <img width="400" src="ressources/voiture/direction.jpg" alt="voiture">
 </p>
 
 ### Stop
 
-### Par choc
+Un petit moteur polarisé contrôlé par un autre pont en H permettant de freiner la voiture en bloquant l'axe de la roue arrière. Très important pour éviter d'endommager la structure car la voiture pèse un certain poids. Pour cela il faut l'arrêter pour changer entre la marche avant et la marche arrière.
+
 
 ## Électroniques
 
 ### Voiture
 
 Pour ce projet nous avons utilisé deux cartes arduino.
-Une carte arduino UNO sur la voiture pour sa fiabilité et de faciliter le branchement de l'ensemble des éléments. 
+Une carte arduino UNO sur la voiture pour sa fiabilité et son aisance lors des branchements. 
 Une carte Arduino Pro Mini pour sa petite taille afin de l'incorporer dans la télécommande.
 
-Les deux cartes Arduinos sont reliées avec des antennes de 433 MHz pour leur faible consommation et une portée importante.
+Les deux cartes Arduinos sont reliées avec des antennes de 433 MHz pour leur faible consommation et leur portée importante.
 
-Deux ponts en H pour controler les moteurs, un pouvant transmettre 30 A pour la transmission et la direction et un plus petit 2A pour le frein.
+Deux ponts en H pour contrôler les moteurs, un pouvant transmettre jusqu'à 30 A pour la transmission et la direction et un plus petit 2A pour le frein.
 
-Un ESP32 cam est installé à l'avant afin d'avoir une vidéo.
+Un ESP32 cam est installé pour un retour vidéo.
 
 ### Manette
 
