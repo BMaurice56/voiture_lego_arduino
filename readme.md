@@ -13,7 +13,7 @@ Voiture réalisée avec des pièces légo, des moteurs récupérés, une imprima
 
 ### Transmission
 
-Un moteur polarisable est controlé par un pont en H et est rattaché à un différentiel afin de transférer l'énergie dans les roues arrière. 
+Un moteur polarisé est controlé par un pont en H et est rattaché à un différentiel afin de transférer l'énergie dans les roues arrière. 
 
 <p align="center">
     <img width="400" src="ressources/voiture/dessus.jpg" alt="voiture">
@@ -29,18 +29,18 @@ Même principe que la transmission, un moteur polarisé relié au même pont en 
 
 ### Stop
 
-Un petit moteur polarisé contrôlé par un autre pont en H permettant de freiner la voiture en bloquant l'axe de la roue arrière. Très important pour éviter d'endommager la structure car la voiture pèse un certain poids. Pour cela il faut l'arrêter pour changer entre la marche avant et la marche arrière.
+Un petit moteur polarisé contrôlé par un autre pont en H permettant de freiner la voiture en bloquant l'axe de la roue arrière. Très important pour éviter d'endommager la structure. La voiture pèse un certain poids. Il faut l'arrêter pour changer entre la marche avant et la marche arrière.
 
 
 ## Électroniques
 
 ### Voiture
 
-Pour ce projet nous avons utilisé deux cartes arduino.
-Une carte arduino UNO sur la voiture pour sa fiabilité et son aisance lors des branchements. 
-Une carte Arduino Pro Mini pour sa petite taille afin de l'incorporer dans la télécommande.
+Pour ce projet nous avons utilisé deux cartes Arduino.
+- Une carte Arduino UNO sur la voiture pour sa fiabilité et pour les branchements. 
+- Une carte Arduino Pro Mini pour sa petite taille afin de l'incorporer dans la télécommande.
 
-Les deux cartes Arduinos sont reliées avec des antennes de 433 MHz pour leur faible consommation et leur portée importante.
+Les deux cartes Arduino sont reliées avec des antennes de 433 MHz pour leur faible consommation et leur portée importante.
 
 Deux ponts en H pour contrôler les moteurs, un pouvant transmettre jusqu'à 30 A pour la transmission et la direction et un plus petit 2A pour le frein.
 
