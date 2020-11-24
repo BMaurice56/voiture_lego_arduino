@@ -1,6 +1,6 @@
-# Voiture radio-télécommandé légo
+# Voiture radiocommandée légo
 
-Projet de voiture radio-télécommandé légo élaboré et produit avec mon frère.
+Projet de voiture radiocommandée légo élaboré et produit avec mon frère.
 
 
 <p align="center">
@@ -21,7 +21,7 @@ Un moteur polarisé est controlé par un pont en H et est rattaché à un diffé
 
 ### Direction
 
-Même principe que la transmission, un moteur polarisé relié au même pont en H. Une glissière relie les deux roues afin de pouvoir les tourner dans le même sens. Un bouton à gauche permet d'arréter le moteur quand il tourne à droite, de même avec le bouton à drotie quand il veut tourner à gauche. Un fils est incrusté au milieu de la glissière et un autre juste devant afin d'indiquer le centre de la direction.
+Même principe que la transmission, un moteur polarisé relié au même pont en H. Une glissière relie les deux roues afin de pouvoir les tourner dans le même sens. Un bouton à gauche permet d'arréter le moteur quand les roues tournent à droite, de même avec le bouton à droite quand elles tournent à gauche. Un fils est incrusté au milieu de la glissière et un autre juste devant afin d'indiquer le centre de la direction.
 
 <p align="center">
     <img width="400" src="ressources/voiture/direction.jpg" alt="voiture">
@@ -40,7 +40,7 @@ Pour ce projet nous avons utilisé deux cartes Arduino.
 - Une carte Arduino UNO sur la voiture pour sa fiabilité et pour les branchements. 
 - Une carte Arduino Pro Mini pour sa petite taille afin de l'incorporer dans la télécommande.
 
-Les deux cartes Arduino sont reliées avec des antennes de 433 MHz pour leur faible consommation et leur portée importante.
+Les deux cartes Arduino sont reliées avec des antennes de 433 MHz pour leurs faibles consommations et leurs portées importantes.
 
 Deux ponts en H pour contrôler les moteurs, un pouvant transmettre jusqu'à 30 A pour la transmission et la direction et un plus petit 2A pour le frein.
 
