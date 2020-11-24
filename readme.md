@@ -1,15 +1,15 @@
-# Voiture radiocommandée légo
+# Voiture radiocommandée LEGO
 
-Projet de voiture radiocommandée légo élaboré et produit avec mon frère.
+Projet de voiture radiocommandée LEGO élaboré et produit avec mon frère.
 
 
 <p align="center">
     <img width="500" src="ressources/voiture/voiture.jpg" alt="voiture">
 </p>
 
-Voiture réalisée avec des pièces légo, des moteurs récupérés, une imprimante 3D pour fabriquer des pièces manquantes ou pour renforcer des zones. Et des composants électroniques pour la piloter.
+Voiture réalisée avec des pièces LEGO, des moteurs récupérés, une imprimante 3D pour fabriquer des pièces manquantes ou pour renforcer des zones. Et des composants électroniques pour la piloter.
 
-## Légo
+## LEGO
 
 ### Transmission
 
