@@ -22,6 +22,8 @@ Un moteur polarisé est controlé par un pont en H et est rattaché à un diffé
     <img width="350" height="280" src="ressources/voiture/differentiel.JPEG" alt="voiture">
 </p>
 
+Un différentiel imprimé en 3D était nécessaire car ceux en Légo n'étaient pas assez résistants à la pression exercée par le moteur et le poid de la voiture.
+
 ### Direction
 
 Même principe que la transmission, un moteur polarisé relié au même pont en H. Une glissière relie les deux roues afin de pouvoir les tourner dans le même sens. Un bouton à gauche permet d'arréter le moteur quand les roues tournent à droite, de même avec le bouton à droite quand elles tournent à gauche. Un fils est incrusté au milieu de la glissière et un autre juste devant afin d'indiquer le centre de la direction.
