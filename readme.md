@@ -18,6 +18,9 @@ Un moteur polarisé est controlé par un pont en H et est rattaché à un diffé
 <p align="center">
     <img width="400" src="ressources/voiture/dessus.jpg" alt="voiture">
 </p>
+<p align="center">
+    <img width="400" src="ressources/voiture/differentiel.jpeg" alt="voiture">
+</p>
 
 ### Direction
 
