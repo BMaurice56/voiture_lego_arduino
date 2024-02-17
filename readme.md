@@ -52,6 +52,11 @@ Un ESP32 cam est installé pour un retour vidéo.
     <img height="300" src="ressources/manette/open.jpg" alt="voiture">
 </p>
 
+### Première version de la voitre
+<p align="center">
+    <img height="300" src="ressources/voiture/premiere_version_1.jpg" alt="voiture">
+    <img height="300" src="ressources/voiture/premiere_version_2.jpg" alt="voiture">
+</p>
 
 ## Run
 
