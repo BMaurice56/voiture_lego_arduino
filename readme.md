@@ -23,6 +23,7 @@ Un moteur polarisé est controlé par un pont en H et est rattaché à un diffé
 </p>
 
 Un différentiel imprimé en 3D était nécessaire car ceux en Légo n'étaient pas assez résistants à la pression exercée par le moteur et le poid de la voiture.
+La chauffe engendrée par les frottements était trop importante pour de simples pièces de légo.
 
 ### Direction
 
@@ -57,7 +58,7 @@ Un ESP32 cam est installé pour un retour vidéo.
     <img height="300" src="ressources/manette/open.jpg" alt="voiture">
 </p>
 
-### Première version de la voitre
+### Première version de la voiture
 <p align="center">
     <img height="300" src="ressources/voiture/premiere_version_1.jpg" alt="voiture">
     <img height="300" src="ressources/voiture/premiere_version_2.jpg" alt="voiture">
